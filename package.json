@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sikuli/vizq.git"
+    "url": "git+https://github.com/sikuli/vizq.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/sikuli/vizq/issues"
   },
