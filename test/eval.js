@@ -55,5 +55,6 @@ function test(q){
 
 
 test({
-    Subject: 'col'
+    Subject: 'col',
+    CrsLvlNum: 'col'
 })
